@@ -26,8 +26,8 @@ const teamList: TeamProps[] = [
   {
     imageUrl:
       "https://pbs.twimg.com/profile_images/1809517444119293952/3XegpkMH_400x400.jpg",
-    name: "Karan Dhot",
-    position: "Business Lead",
+    name: "Karan Kamboj",
+    position: "Co-Founder & Lead",
     tagLine: "Leads the business and logic management at Zephyria Network.",
     socialNetworks: [
       { name: "Linkedin", url: "https://www.linkedin.com/in/karan-kamboj/" },
@@ -45,7 +45,7 @@ const teamList: TeamProps[] = [
     imageUrl:
       "https://pbs.twimg.com/profile_images/1812402118856196097/I8nsmLLe_400x400.jpg",
     name: "Kunal Dhongade",
-    position: "Software Developer",
+    position: "Co-Founder & Developer",
     tagLine:
       "Leading technical development, ensuring our code is robust, efficient, & innovative.",
     socialNetworks: [
