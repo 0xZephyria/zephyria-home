@@ -18,13 +18,13 @@ const serviceList: ServiceProps[] = [
   {
     title: "Project Management",
     description:
-      "Efficiently manage blockchain projects with our comprehensive tools and resources.",
+      "Efficiently deploy Blockchain projects with our comprehensive tools and resources.",
     icon: <WalletIcon />,
   },
   {
     title: "Decentralization",
     description:
-      "Ensuring a decentralized approach to maximize security, transparency, and trust.",
+      "Ensuring a highly decentralized approach to maximize Security, Transparency and Build Trust.",
     icon: <MagnifierIcon />,
   },
 ];
@@ -36,14 +36,14 @@ export const Services = () => {
         <div>
           <h2 className="text-3xl md:text-4xl font-bold">
             <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-              Business-Centric{" "}
+              Community-Centric{" "}
             </span>
             Blockchain
           </h2>
 
           <p className="text-muted-foreground text-xl mt-4 mb-8 ">
-            Zephyria Network and to appeal to developers and blockchain
-            enthusiasts
+            Zephyria Network Collecting Developers and Blockchain
+            enthusiasts to Build Web3
           </p>
 
           <div className="flex flex-col gap-8">
