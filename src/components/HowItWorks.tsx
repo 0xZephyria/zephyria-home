@@ -24,7 +24,7 @@ const features: FeatureProps[] = [
     icon: <PlaneIcon />,
     title: "Scalability",
     description:
-      "Ensuring the network can handle a high volume of transactions with efficiency.",
+      "Ensuring the Network Throughput and Robustness without Compromising Performance.",
   },
   {
     icon: <GiftIcon />,
