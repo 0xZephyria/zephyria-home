@@ -26,7 +26,7 @@ git clone https://github.com/0xzephyria/zephyria-home.git
 2. Go into project
 
 ```bash
-cd zephyria-home
+cd Zephyria
 ```
 
 3. Install dependencies
