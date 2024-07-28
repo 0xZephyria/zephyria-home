@@ -42,8 +42,8 @@ export const Services = () => {
           </h2>
 
           <p className="text-muted-foreground text-xl mt-4 mb-8 ">
-            Zephyria Network Collecting Developers and Blockchain
-            enthusiasts to Build Web3
+            Zephyria Network Collecting Developers and Blockchain enthusiasts to
+            Build Web3
           </p>
 
           <div className="flex flex-col gap-8">
