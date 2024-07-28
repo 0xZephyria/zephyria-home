@@ -46,14 +46,14 @@ const FAQList: FAQProps[] = [
     question: "What are the key features of Zephyria Network?",
     answer:
       "Key features include zk-SNARKs for enhanced security and privacy, EVM compatibility, asynchronous BFT consensus for reliability, and robust scalability to handle high transaction volumes.",
-    value: "item-5",
+    value: "item-6",
   },
   {
     question:
       "Why should I choose Zephyria Network over other blockchain platforms?",
     answer:
       "Zephyria Network offers a unique combination of scalability, security, and decentralization, solving the blockchain trilemma and providing a future-proof platform for developers and users alike.",
-    value: "item-5",
+    value: "item-7",
   },
 ];
 
