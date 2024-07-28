@@ -1,6 +1,7 @@
 import { LogoIcon } from "./Icons";
 
 export const Footer = () => {
+  //kunal dhongade
   return (
     <footer id="footer">
       <hr className="w-11/12 mx-auto" />
@@ -55,17 +56,17 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="https://0xzephyria.gitbook.io/zephyria/"
               className="opacity-60 hover:opacity-100"
             >
-              Docs
+              Gitbook
             </a>
           </div>
 
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://www.Youtube.com/@zephyria"
+              href="https://www.Youtube.com/@0xzephyria"
               className="opacity-60 hover:opacity-100"
             >
               Youtube
@@ -78,7 +79,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Medium
+              Blog
             </a>
           </div>
         </div>
@@ -131,7 +132,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://discord.com/invite/MY9B7bDa"
+              href="https://discord.gg/4uAw2W76Fz"
               className="opacity-60 hover:opacity-100"
             >
               Discord
