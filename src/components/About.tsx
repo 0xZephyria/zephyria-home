@@ -20,12 +20,13 @@ export const About = () => {
                 </span>
                 Company
               </h2>
-              <p className="text-xl text-muted-foreground mt-4 text-justify">
-                Zephyria Network aims to revolutionize the Blockchain Tech with Ultra Scalable,
-                Secure and EVM-compatible Succinct solution. We look forward to revolutionize technology
-                to tackle current challenges, ensuring seamless integration and
-                robust performance. Join us to shape the future of decentralized
-                tech and drive mass adoption of web3.
+              <p className="md:text-lg lg:text-xl text-muted-foreground mt-4 text-center">
+                Zephyria Network aims to revolutionize the Blockchain Tech with
+                Ultra Scalable, Secure and EVM-compatible Succinct solution. We
+                look forward to revolutionize technology to tackle current
+                challenges, ensuring seamless integration and robust
+                performance. Join us to shape the future of decentralized tech
+                and drive mass adoption of web3.
               </p>
             </div>
 
