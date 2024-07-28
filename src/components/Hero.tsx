@@ -1,4 +1,4 @@
-import { GitHubLogoIcon } from "@radix-ui/react-icons";
+import { DiscordLogoIcon, GitHubLogoIcon } from "@radix-ui/react-icons";
 import { HeroCards } from "./HeroCards";
 import { Button, buttonVariants } from "./ui/button";
 
@@ -29,8 +29,11 @@ export const Hero = () => {
 
         <div className="space-y-4 md:space-y-0 md:space-x-4">
           {/* <a href="mailto:0xZephyria@gmail.com"> */}
-          <a href="https://x.com/0xZephyria" target="_blank">
-            <Button className="w-full md:w-1/3">Join Us</Button>
+          <a href="https://discord.gg/4uAw2W76Fz" target="_blank">
+            <Button className="w-full md:w-1/3">
+              Join Us
+              <DiscordLogoIcon className="ml-2 w-5 h-5" />
+            </Button>
           </a>
 
           <a
